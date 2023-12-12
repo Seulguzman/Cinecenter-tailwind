@@ -1,0 +1,36 @@
+body{
+    background-color: darkslategray;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    text-align: center;
+
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+    border: solid1px #563276;
+}
+/*
+a{
+color: white !important
+}
+a:hover {
+    color: cadetblue !important
+}
+*/
+ul li a{
+    color: white;
+
+}
+ul li a:hover {
+    color: cadetblue;
+}
+#id{
+    font-size: 3rem;
+    color: chartreuse;
+    text-decoration: overline;
+}
